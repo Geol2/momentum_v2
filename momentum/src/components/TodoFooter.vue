@@ -1,5 +1,7 @@
 <template>
-    <div id="app"></div>
+    <div id="app">
+        footer
+    </div>
 </template>
 
 <script>
